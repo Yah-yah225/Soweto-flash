@@ -1,0 +1,135 @@
+/*Début de l'en tête*/
+.navbar-brand{
+    font-family: Algerian;
+    font-size: 26px;
+    
+}
+.navbar-brand-1{
+      font-size: 15px;
+}
+.nav-link{
+color: white;
+font-family: Algerian;
+font-size: 15px;
+
+
+}
+.nav-link:hover{
+      color: rgb(128, 129, 129);
+      font-style: oblique;
+}
+.T-p{
+font-size: 14px;
+font-family: Algerian;
+}
+.N-l-1{
+color: rgb(211, 204, 204)(211, 204, 204);
+font-family: Elephant;
+font-size: 15px;
+}
+.T-plans{
+color:red;
+}
+.nv-apparence{
+    border: none;
+}
+.nv-apparence:hover{
+          color: rgba(148, 147, 147, 0.795);
+}
+.T-color{
+color: white;
+}
+.T-end{
+color: white;
+}
+.After{
+font-size: 15px;
+color: white;
+font-family: elephant;
+display: flex;
+}
+.After:hover{
+   color: rgba(148, 147, 147, 0.795);
+}
+#b-plans{
+color:red;
+}
+#b-plans:hover{
+     color: rgba(255, 0, 0, 0.459);
+}
+#O-etu{
+color: blueviolet;
+}
+#O-etu:hover{
+color: rgba(137, 43, 226, 0.459);
+}
+
+
+/*Début de la barre de navigation*/
+.recherche input{
+       border-radius: 15px;
+
+}
+.recherche input:hover{
+             background: rgba(100, 97, 97, 0.158);
+}
+.recherche i{
+   color: red;
+   position: absolute;
+   margin-top: 10px;
+   margin-left: 180px;
+   opacity: 0.5;
+}
+.recherche i:hover{
+         color: rgba(255, 0, 0, 0.493);
+         
+}
+.me-5{
+width: 200px;
+}
+/*Fin de la barre de navigation*/
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+main{
+     display:flex ;
+     height: 100vh;
+     justify-content:center ;
+     align-items:center ;
+    
+}
+.contenu{
+           width: 100%;
+           max-width: 650px;
+           background: rgba(15, 14, 14, 0.5);
+           padding: 28px;
+           margin: 0 28px;
+           border-radius: 10px;
+           box-shadow: inset -2px 2px 2px white;
+}
+
+.Coco{
+      font-family: Algerian;
+      color: rgba(135, 238, 149, 0.733);
+      font-weight: bold;
+}
+.Mot-o{
+       color:red;
+}
+.Mot-o:hover{
+       color:rgb(92, 4, 4);
+}
+.Ins-v{
+       color: green;
+}
+
+.Ins-v:hover{
+             color: greenyellow;
+}
+.t-y{
+    color: rgb(250, 235, 215);
+    opacity: 0.5;
+}
